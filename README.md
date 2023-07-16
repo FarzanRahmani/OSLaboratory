@@ -1,2 +1,2 @@
 # OSLaboratory
-## Operatiing System Laboratory course at 6th term of university
+## Operating System Laboratory course at 6th term of university
